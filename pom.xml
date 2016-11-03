@@ -3,7 +3,7 @@
 
   <groupId>no.hardeng.demo</groupId>
   <artifactId>gitflow-demo</artifactId>
-  <version>1.0-RC-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>gitflow-demo</name>
