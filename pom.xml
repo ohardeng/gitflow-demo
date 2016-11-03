@@ -27,7 +27,7 @@
       <plugin>
         <groupId>external.atlassian.jgitflow</groupId>
         <artifactId>jgitflow-maven-plugin</artifactId>
-        <version>1.0-m4.3</version>
+        <version>1.0-m5.1</version>
         <!-- Configuration inspired by http://george-stathis.com/2013/11/09/painless-maven-project-releases-with-maven-gitflow-plugin/ -->
         <configuration>
           <!-- Keep your maven submodules at the same version as the parent POM -->
